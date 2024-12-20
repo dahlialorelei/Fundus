@@ -7,12 +7,12 @@ The code is in this repo.
 The Training.py file loads the dataset, preprocesses it, and trains the model.
 The Test.py file loads a test dataset, loads the model file, and uses it on test dataset to generate predictions and display them. 
 
-The full training and validation dataset is in Fundus_FullDataSet.
-A smaller dataset is in Fundus_PartialDataSet.
+The full training and validation dataset is in Fundus_FullDataSet: https://github.com/dahlialorelei/Fundus_FullDataSet
+A smaller dataset is in Fundus_PartialDataSet: https://github.com/dahlialorelei/Fundus_PartialDataSet
 
-The test images are in Fundus_TestDataSet.
+The test images are in Fundus_TestDataSet: https://github.com/dahlialorelei/Fundus_TestDataSet
 
-The datasets were generated using eyedata/eyedata.py on images from the Diabetic Retinopathy Detection dataset on Kaggle: https://www.kaggle.com/competitions/diabetic-retinopathy-detection/data. The specific data used from this dataset is in Fundus_SourceDataSet.
+The datasets were generated using eyedata/eyedata.py on images from the Diabetic Retinopathy Detection dataset on Kaggle: https://www.kaggle.com/competitions/diabetic-retinopathy-detection/data. The specific data used from this dataset is in Fundus_SourceDataSet: https://github.com/dahlialorelei/Fundus_SourceDataSet
 
 To set up the enviornment, use Python 3.11, and use the requirements.txt.
 
